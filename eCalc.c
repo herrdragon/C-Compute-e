@@ -8,11 +8,7 @@
 /******************************************************************************/
 /* DOCUMENTATION */
 
-/* PROGRAMMER:  Luis M. Herrnsdorf  
-   ID: 5481644
-   CLASS:       COP4338 U03   TT 7:50
-   INSTRUCTOR:  William Feild
-   ASSIGNMENT:  #1.   DUE Tuesday 2/09 */
+/* PROGRAMMER:  Miguel Herrnsdorf  */
 
 /* DESCRIPTION: This program compute e and compares the result with the math.h
    library constant expected value.  Also shows how many iterations took to 
